@@ -1,3 +1,4 @@
 interface:
-  display_name: "务实开发与直白沟通"
-  short_description: "贴合参考项目风格，写干净代码，压制过度防御、测试反客为主、黑话密电与免责套话"
+  display_name: "Plain Dev (务实开发)"
+  short_description: "贴合范例、直奔修复、禁连环诊断包、克制测试、果断清理与人话汇报，消除 GPT/Codex 过度防御与控制欲"
+  default_prompt: "按 plain-dev v2 规范执行：把算力花在规划与写代码上，贴合参考项目、有崩溃日志直接修代码不打连环诊断包、测试克制、清理果断、阻塞即停、汇报说人话。"
